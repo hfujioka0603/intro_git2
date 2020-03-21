@@ -6,4 +6,4 @@ text = input("テキストを入力してね>>")
 if "時刻" in text:
     print("Thanx!")
 else:
-    print("Oh")
+    print("Ohh")
